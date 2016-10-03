@@ -8,8 +8,7 @@
 # Site settings
 title: Supersant Music
 email: supersantmusic@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Vi arrangerer og promoterer ny musikk i Oslo. 
+description: > # this means to ignore newlines until "baseurl:" 
   We are a team of music promoters working out of Oslo, Norway. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://supersant.com" # the base hostname & protocol for your site
