@@ -17,3 +17,6 @@ github_username:  iskendar
 
 # Build settings
 markdown: kramdown
+
+gems:
+  - jekyll-sitemap
